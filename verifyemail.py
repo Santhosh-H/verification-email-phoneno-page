@@ -13,10 +13,10 @@ import ssl
 smtp_port = 587                 # Standard secure SMTP port
 smtp_server = "smtp.gmail.com"  # Google SMTP Server
 
-email_from = "santhoshpubg13@gmail.com"
-email_to = "201501502@rajalakshmi.edu.in"
+email_from = "sl.com"
+email_to = "2du.in"
 
-pswd = "moolzxxcrmdozsoz"
+pswd = ""
 
 # content of message
 
