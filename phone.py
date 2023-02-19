@@ -11,10 +11,5 @@ headers = {
     "X-Gateway-APIKey": api_token
 }
 
-data = {
-    "sender": sender_id,
-    "message": message,
-    "recipients": recipients
-}
 
 response = requests.post(url, headers=headers, json=data)
